@@ -1,4 +1,4 @@
-# # 🍽️ Mudi Restaurant
+# # Mudi Restaurant
 
 A fully responsive restaurant website built using **HTML** and **CSS**.  
 This project showcases a restaurant homepage with multiple sections such as About, Menu, Offers, Gallery, and Contact.
